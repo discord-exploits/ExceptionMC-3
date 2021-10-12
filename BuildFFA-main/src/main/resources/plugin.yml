@@ -1,0 +1,10 @@
+name: BuildFFA
+version: 1.0.0
+author: ExceptionMC
+main: net.exceptionmc.BuildFFA
+
+depend: [Framework]
+
+commands:
+  build:
+  buildffa:
